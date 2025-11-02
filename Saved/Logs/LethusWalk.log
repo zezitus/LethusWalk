@@ -1231,3 +1231,998 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.02-18.12.59:623][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
 [2025.11.02-18.12.59:630][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2025.11.02-18.12.59:695][371]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.11.02-18.14.34:444][556]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.11.02-18.14.34:444][556]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.11.02-18.14.36:970][779]LogDerivedDataCache: C:/Users/ericm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.02-18.15.20:022][372]LogSlate: Window 'Bridge' being destroyed
+[2025.11.02-18.15.20:035][372]LogSlate: Window 'Bridge' being destroyed
+[2025.11.02-18.15.20:035][372]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.11.02-18.15.20:035][372]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.6/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVyaWNoczIwMTRAZ21haWwuY29tIiwic2NvcGUiOlsiZGVmYXVsdDp1c2VyIiwibWVnYXNjYW5zOnVzZXIiXSwiZXBpY0FjY291bnRJZCI6IjliZDhmZWFmODU1ODQwZDg4M2UyZTc5YTM4MmY4OGRmIiwiaXNVbnJlYWxFVUxBQWNjZXB0ZWQiOnRydWUsImlzRXBpY0FjY291bnQiOnRydWUsInF1aXhlbEFjY291bnRJZCI6ImNlNzViYTM1LWFhYzUtNDU5Ni05MjcxLTJjYTZjZmE5ZjAwZCIsInJlYWxtIjoibWVnYXNjYW5zIiwiZXVsYXNBY2NlcHRlZCI6WyJlcGljX2NvbnRlbnQiXSwiaWF0IjoxNzYyMTA2ODUzLCJleHAiOjE3NjIxMzU2NTMsImlzcyI6InF1aXhlbC1zc28tcHJvZCIsImp0aSI6IjAwODA3ZmI3LTkwYjctNGI0Yy1iMzY3LWI3ZmMzMDdhZjZjZCJ9.WIqAQdt962EMQQUnll9C91JN3P3SgwfAjCvtDGjs0x3x2Xkv3B2JtejfpidQ659mlt0T6QfJ-kB4DXAgKilg_vXo1Y6KcR2bWLEyzMIQUU2JB75rkep5gjYE4VUFJpW9j6mWcELKqHCEDOrXEXLHfCAkDdxePY2BDDbdw3qpYFas86pGJc5pyfTK-O4HTyXx5HMWMpljo6pUTExSraIgjFa1DZFtLlT1Hwyqngilze6ArIqYaNynPjsl1MqqNRXuFqQPjdtAxi3jM05Gx166k4_R_R1jNEQcn_Dzd1Xc2aJkP_MB9rCIO_6OKFnpD3cIA6ffIcXOY1QZNZkgHNluiA&refreshToken=YTcyNzEyYTktNmYxYy00MzY0LTg2MWMtOTAwZmRiOGFjYWUy#/megascans/?search=sword.
+[2025.11.02-18.15.22:477][573]LogFab: Display: Logging in using persist
+[2025.11.02-18.15.22:477][573]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.11.02-18.15.22:499][573]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.11.02-18.15.22:499][573]LogFab: Display: Logging in using exchange code
+[2025.11.02-18.15.22:499][573]LogFab: Display: Reading exchange code from commandline
+[2025.11.02-18.15.22:499][573]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.11.02-18.15.22:509][574]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.11.02-18.15.25:072][718]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.11.02-18.15.25:072][718]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.11.02-18.16.02:053][184]LogFab: Display: Asset Type = glb
+[2025.11.02-18.16.02:053][184]LogFab: Display: Is Quixel = 0
+[2025.11.02-18.16.05:213][451]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.16.05:714][451]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.11.02-18.16.05:714][451]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ericm/AppData/Local/Temp/FabLibrary/f25cf33e-596b-4899-9e20-202f26999b68/sword.glb]
+[2025.11.02-18.16.05:747][453]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.16.05:997][476]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.16.06:090][485]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.16.06:208][489]LogStaticMesh: Display: Construindo malha estática sword (Estimativa de memória necessária: 51.590306 MB)...
+[2025.11.02-18.16.06:212][490]LogTexture: Display: Texturas de compilação: /Game/Fab/Sword/sword/Textures/sword_texture_2.sword_texture_2 (TFO_BC5, 4096X4096 X1X1X1) (Memória necessária estimada: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.02-18.16.06:212][490]LogTexture: Display: Texturas de compilação: /Game/Fab/Sword/sword/Textures/sword_texture_0.sword_texture_0 (TFO_AutoDXT, 4096X4096 X1X1X1) (Memória necessária estimada: 1120.999983 MB), EncodeSpeed: Fast
+[2025.11.02-18.16.06:212][490]LogTexture: Display: Texturas de compilação: /Game/Fab/Sword/sword/Textures/sword_texture_1.sword_texture_1 (TFO_AutoDXT, 4096X4096 X1X1X1) (Memória necessária estimada: 1120.999983 MB), EncodeSpeed: Fast
+[2025.11.02-18.16.07:272][576]LogStaticMesh: Built static mesh [1.06s] /Game/Fab/Sword/sword/StaticMeshes/sword.sword
+[2025.11.02-18.16.07:350][584]LogStaticMesh: Warning: sword tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2025.11.02-18.16.07:350][584]LogStaticMesh: Warning: sword tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2025.11.02-18.16.07:407][585]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ericm/AppDa...99-9e20-202f26999b68/sword.glb]
+[2025.11.02-18.16.08:914][731]LogSlate: Window 'Fab' being destroyed
+[2025.11.02-18.16.08:943][731]LogSlate: Window 'Fab' being destroyed
+[2025.11.02-18.16.10:416][877]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.11.02-18.16.10:416][877]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/f25cf33e-596b-4899-9e20-202f26999b68.
+[2025.11.02-18.16.29:367][528]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Sword/sword/StaticMeshes/sword.sword
+[2025.11.02-18.16.29:420][528]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.02-18.16.29:425][528]LogStreaming: Display: FlushAsyncLoading(445): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.16.59:611][296]LogSlate: Window 'sword' being destroyed
+[2025.11.02-18.17.03:942][698]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPC_Combat.BPC_Combat
+[2025.11.02-18.17.03:942][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.02-18.17.03:970][698]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.17.05:121][698]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.02-18.17.07:509][913]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.17.07:512][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Notify_Damage.BP_Notify_Damage
+[2025.11.02-18.17.07:512][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.02-18.17.09:119][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.17.09:163][ 52]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sword/sword/StaticMeshes/sword] ([1] browsable assets)...
+[2025.11.02-18.17.09:172][ 52]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sword/sword/StaticMeshes/sword.sword]
+[2025.11.02-18.17.09:172][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/StaticMeshes/sword]
+[2025.11.02-18.17.09:195][ 52]LogSavePackage: Moving output files for package: /Game/Fab/Sword/sword/StaticMeshes/sword
+[2025.11.02-18.17.09:195][ 52]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/swordBFDCFC4C4742D472A34472B2391A3583.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Fab/Sword/sword/StaticMeshes/sword.uasset'
+[2025.11.02-18.17.09:204][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.025 ms
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: Enabled validators:
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.17.09:246][ 52]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.17.09:246][ 52]AssetCheck: /Game/Fab/Sword/sword/StaticMeshes/sword Validando ativo
+[2025.11.02-18.17.09:258][ 52]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.02-18.17.33:798][952]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.02-18.17.51:607][425]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.02-18.17.51:657][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.02-18.17.52:594][485]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.11.02-18.17.52:596][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.02-18.17.52:603][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.17.52:915][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.02-18.18.15:853][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 335.539612
+[2025.11.02-18.18.16:853][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.18.16:853][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.205963, Update Interval: 307.597290
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: ================================================
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Total job queries 449, among them cache hits 36 (8.02%), DDC hits 336 (74.83%), Duplicates 68 (15.14%)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Tracking 345 distinct input hashes that result in 251 distinct outputs (72.75%)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: RAM used: 3,36 MiB of 1,60 GiB budget. Usage: 0.21%
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.73 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 1.56 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 1.94
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Shader code size: total 90,055 KiB, numShaders 11, average 8,187 KiB, min 2,934 KiB, max 15,699 KiB
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.95 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Average processing rate: 4.62 jobs/sec
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Total thread time: 6,42 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Total thread preprocess time: 5,875 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Percentage time preprocessing: 91.51%
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Effective parallelization: 3.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.411714
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.00% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                  FVelocityPS - 14.21% of total time (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                FAnisotropyPS - 12.26% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.91% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.96% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: === Material stats ===
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Materials Translated:    175
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Material Translation Only: 0.10 s (69%)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.11.02-18.18.43:732][355]LogShaderCompilers: Display: Material Cache Hits: 70 (40%)
+[2025.11.02-18.18.43:733][355]LogShaderCompilers: Display: ================================================
+[2025.11.02-18.19.06:069][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.02-18.19.06:428][439]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.02-18.20.50:769][962]Cmd: TRANSACTION UNDO
+[2025.11.02-18.20.50:770][962]LogEditorTransaction: Undo Definir propriedade vetorial
+[2025.11.02-18.20.51:200][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.20.51:384][964]Cmd: TRANSACTION UNDO
+[2025.11.02-18.20.51:384][964]LogEditorTransaction: Undo Anexar ativos ao esqueleto
+[2025.11.02-18.20.51:761][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.21.20:183][574]Cmd: TRANSACTION UNDO
+[2025.11.02-18.21.20:183][574]LogEditorTransaction: Undo Definir propriedade vetorial
+[2025.11.02-18.21.20:573][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.23.27:985][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 647.673889
+[2025.11.02-18.23.28:185][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.23.28:185][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 647.866211, Update Interval: 357.791687
+[2025.11.02-18.24.46:198][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.24.46:245][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2025.11.02-18.24.46:262][907]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin]
+[2025.11.02-18.24.46:262][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2025.11.02-18.24.46:284][907]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2025.11.02-18.24.46:285][907]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SK_Mannequin90E786CF403AC0E6B959748EE873E466.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2025.11.02-18.24.46:296][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.731 ms (total: 182.756 ms)
+[2025.11.02-18.24.46:344][907]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.24.46:344][907]LogContentValidation: Enabled validators:
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.24.46:344][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.24.46:344][907]AssetCheck: /Game/Characters/Mannequins/Meshes/SK_Mannequin Validando ativo
+[2025.11.02-18.24.46:357][907]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.02-18.24.49:969][251]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.24.49:969][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.24.50:098][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.02-18.24.50:257][264]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-18.24.50:263][264]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-18.24.50:263][264]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-18.24.50:264][264]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 930 us (total: 1.563 ms)
+[2025.11.02-18.24.50:264][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-18.24.50:300][264]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.24.50:307][264]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-18.24.50:308][264]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.274 ms (total: 2.561 ms)
+[2025.11.02-18.24.50:308][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007461s)
+[2025.11.02-18.24.50:308][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007499s)
+[2025.11.02-18.24.50:332][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.02-18.24.50:333][264]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-18.24.50:335][264]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-18.24.50:335][264]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-18.24.50:335][264]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-18.24.50:335][264]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-18.24.50:337][264]LogWorldPartition: Display: WorldPartition initialize took 2.457 ms (total: 69.974 ms)
+[2025.11.02-18.24.50:337][264]LogPlayLevel: PIE: World Init took: (0.004462s)
+[2025.11.02-18.24.50:338][264]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-18.24.50:338][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-18.24.50:338][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-18.24.50:338][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-18.24.50:338][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-18.24.50:338][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-18.24.50:340][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-18.24.50:357][264]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-18.24.50:357][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-18.24.50:357][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-18.24.50:357][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-18.24.50:358][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.02-18.24.50:358][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.02-18.24.50:359][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.02-18.24.50:359][264]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.02-18.24.50:359][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.02-18.24.50:359][264]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-18.24.50:359][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.02-18.24.50:362][264]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-18.24.50:367][264]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-15.24.50
+[2025.11.02-18.24.50:367][264]LogWorld: Bringing up level for play took: 0.004574
+[2025.11.02-18.24.50:369][264]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.11.02-18.24.50:373][264]PIE: Servidor conectado
+[2025.11.02-18.24.50:375][264]PIE: Tempo inicial total de reprodução no editor: 0,112 s
+[2025.11.02-18.24.50:427][265]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-18.24.56:031][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.24.56:031][736]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.24.56:031][736]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.24.56:031][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.24.56:032][736]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-18.24.56:033][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-18.24.56:038][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.24.56:062][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.24.56:062][736]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.02-18.24.56:062][736]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.11.02-18.24.56:064][736]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.11.02-18.24.56:071][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.02-18.24.56:143][737]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.11.02-18.25.23:971][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.02-18.25.24:751][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.11.02-18.25.24:752][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.02-18.25.24:804][728]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-18.27.21:140][638]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:140][638]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:141][638]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:141][638]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:142][638]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:142][638]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:142][638]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.21:143][638]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.23:417][910]LogEditorTransaction: Undo Definir Escala
+[2025.11.02-18.27.23:423][910]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.23:423][910]LogPhysics: Warning: Scale for /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_10FFE001C5DE509E02_1643884425.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.23:426][910]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.23:426][910]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_ThirdPersonCharacter_C_0.Sword has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.250 Z=-0.000
+[2025.11.02-18.27.23:612][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.27.29:839][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.27.29:882][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.27.29:890][285]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.02-18.27.29:890][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.27.29:911][285]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.27.29:912][285]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacter468E16EF4469B519022ED0BED93D96D4.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.27.29:918][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.446 ms (total: 262.203 ms)
+[2025.11.02-18.27.29:948][285]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.27.29:948][285]LogContentValidation: Enabled validators:
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.27.29:948][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.27.29:948][285]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.28.16:453][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.28.16:497][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.28.16:505][937]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.02-18.28.16:505][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.28.16:526][937]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.28.16:527][937]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacter6E464B6E4107805DAE84E1B508DA38DE.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.28.16:533][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.741 ms (total: 341.944 ms)
+[2025.11.02-18.28.16:580][937]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.28.16:580][937]LogContentValidation: Enabled validators:
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.28.16:580][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.28.16:580][937]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.28.22:197][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.11.02-18.28.28:653][819]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-18.28.28:659][819]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-18.28.28:659][819]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-18.28.28:660][819]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 920 us (total: 2.484 ms)
+[2025.11.02-18.28.28:660][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-18.28.28:691][819]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.28.28:698][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-18.28.28:699][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.331 ms (total: 3.893 ms)
+[2025.11.02-18.28.28:699][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008085s)
+[2025.11.02-18.28.28:699][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008119s)
+[2025.11.02-18.28.28:727][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.02-18.28.28:734][819]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-18.28.28:736][819]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-18.28.28:736][819]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-18.28.28:736][819]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-18.28.28:736][819]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-18.28.28:737][819]LogWorldPartition: Display: WorldPartition initialize took 1.635 ms (total: 71.609 ms)
+[2025.11.02-18.28.28:737][819]LogPlayLevel: PIE: World Init took: (0.003184s)
+[2025.11.02-18.28.28:738][819]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-18.28.28:738][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-18.28.28:738][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-18.28.28:738][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-18.28.28:738][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-18.28.28:738][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-18.28.28:740][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-18.28.28:756][819]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-18.28.28:757][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-18.28.28:757][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-18.28.28:757][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-18.28.28:757][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.02-18.28.28:757][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.02-18.28.28:759][819]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.02-18.28.28:759][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.02-18.28.28:759][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.02-18.28.28:759][819]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-18.28.28:759][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.02-18.28.28:762][819]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-18.28.28:767][819]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-15.28.28
+[2025.11.02-18.28.28:767][819]LogWorld: Bringing up level for play took: 0.004798
+[2025.11.02-18.28.28:769][819]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.11.02-18.28.28:773][819]PIE: Servidor conectado
+[2025.11.02-18.28.28:775][819]PIE: Tempo inicial total de reprodução no editor: 0,116 s
+[2025.11.02-18.28.28:833][820]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-18.28.44:671][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.28.44:671][295]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.28.44:671][295]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.28.44:672][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.28.44:672][295]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-18.28.44:673][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-18.28.44:678][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.28.44:701][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.02-18.28.44:701][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.02-18.28.44:702][295]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.11.02-18.28.44:704][295]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.11.02-18.28.44:708][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.28.44:711][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.02-18.28.44:778][296]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.11.02-18.29.09:972][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.02-18.29.09:985][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto1
+[2025.11.02-18.29.09:985][557]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/ZDS9FFWRD0F1XPOHD7SZMY_Auto18514E19548CA3470C708D9AF526D2E8A.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto1.uasset'
+[2025.11.02-18.29.09:987][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.037
+[2025.11.02-18.29.09:987][557]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2025.11.02-18.29.09:987][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_0] ([1] browsable assets)...
+[2025.11.02-18.29.09:991][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sword/sword/Textures/sword_texture_0.sword_texture_0]
+[2025.11.02-18.29.09:991][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_0]
+[2025.11.02-18.29.10:069][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_0_Auto1
+[2025.11.02-18.29.10:069][557]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_0_Auto108B0B400439C3193C3745BA8AAB7CDCC.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_0_Auto1.uasset'
+[2025.11.02-18.29.10:070][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_1] ([1] browsable assets)...
+[2025.11.02-18.29.10:072][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sword/sword/Textures/sword_texture_1.sword_texture_1]
+[2025.11.02-18.29.10:072][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_1]
+[2025.11.02-18.29.10:155][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_1_Auto1
+[2025.11.02-18.29.10:155][557]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_1_Auto101E447B249BB9F6AD620F5B111308A7D.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_1_Auto1.uasset'
+[2025.11.02-18.29.10:156][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_2] ([1] browsable assets)...
+[2025.11.02-18.29.10:157][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sword/sword/Textures/sword_texture_2.sword_texture_2]
+[2025.11.02-18.29.10:157][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_2]
+[2025.11.02-18.29.10:234][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_2_Auto1
+[2025.11.02-18.29.10:234][557]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_2_Auto1F473087E466704C0B33F1D8792654700.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_2_Auto1.uasset'
+[2025.11.02-18.29.10:235][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sword/sword/Materials/Material] ([1] browsable assets)...
+[2025.11.02-18.29.10:385][557]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sword/sword/Materials/Material.Material]
+[2025.11.02-18.29.10:385][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Materials/Material]
+[2025.11.02-18.29.10:393][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Materials/Material_Auto1
+[2025.11.02-18.29.10:393][557]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Material_Auto1AA162DB44E47EAAA182507918FB66B3F.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Materials/Material_Auto1.uasset'
+[2025.11.02-18.29.10:394][557]LogFileHelpers: Auto-saving content packages took 0.407
+[2025.11.02-18.29.33:762][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.453796
+[2025.11.02-18.29.34:761][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.29.34:761][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1014.120361, Update Interval: 326.487000
+[2025.11.02-18.33.47:243][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.33.47:271][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.33.47:333][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.02-18.33.47:333][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.33.47:354][262]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.33.47:355][262]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacter81DE4CB545AD552EA118D082FF9808E3.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.33.47:361][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.091 ms (total: 460.035 ms)
+[2025.11.02-18.33.47:404][262]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.33.47:404][262]LogContentValidation: Enabled validators:
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.33.47:404][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.33.47:404][262]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.34.15:567][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.34.15:597][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.34.15:597][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.34.15:618][379]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.34.15:619][379]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacter3F7CEE0B4011CA21CB32FB93039B66C6.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.34.15:625][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.881 ms (total: 518.917 ms)
+[2025.11.02-18.34.15:680][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.34.15:680][379]LogContentValidation: Enabled validators:
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.34.15:680][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.34.15:680][379]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.35.10:277][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1349.966309
+[2025.11.02-18.35.10:452][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.35.10:452][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1350.132812, Update Interval: 333.271271
+[2025.11.02-18.35.33:739][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.35.33:790][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.35.33:790][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.35.33:790][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.35.33:823][883]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.35.33:824][883]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_CombatD4C759C445218DD11D2566BE53B25AB2.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.35.33:830][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.133 ms (total: 609.050 ms)
+[2025.11.02-18.35.33:872][883]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.35.33:872][883]LogContentValidation: Enabled validators:
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.35.33:872][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.35.33:872][883]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.35.46:131][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.35.46:177][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.35.46:177][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.35.46:177][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.35.46:208][525]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.35.46:208][525]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat0F7973C146AE467B61B20A9425BD09AB.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.35.46:214][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.006 ms (total: 691.057 ms)
+[2025.11.02-18.35.46:243][525]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.35.46:243][525]LogContentValidation: Enabled validators:
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.35.46:243][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.35.46:243][525]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.37.14:447][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.37.14:505][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.37.14:506][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.37.14:506][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.37.14:537][118]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.37.14:538][118]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat63D0DF9B4B5272A8EB8B52A07CCDF978.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.37.14:543][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.418 ms (total: 787.475 ms)
+[2025.11.02-18.37.14:572][118]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.37.14:572][118]LogContentValidation: Enabled validators:
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.37.14:572][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.37.14:572][118]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.38.20:268][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.38.20:327][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.38.20:327][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.38.20:327][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.38.20:360][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.38.20:361][992]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat9472EAF94B87CB7B0AA44AA205DEEC6E.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.38.20:367][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.917 ms (total: 885.392 ms)
+[2025.11.02-18.38.20:409][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.38.20:409][992]LogContentValidation: Enabled validators:
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.38.20:410][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.38.20:410][992]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.39.04:416][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.39.04:475][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.39.04:475][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.39.04:475][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.39.04:507][437]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.39.04:508][437]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat9E8791B34822804B66BC43BF37116C1F.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.39.04:513][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.396 ms (total: 982.789 ms)
+[2025.11.02-18.39.04:558][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.39.04:558][437]LogContentValidation: Enabled validators:
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.39.04:558][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.39.04:558][437]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.39.04:762][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.02-18.39.42:111][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.02-18.39.42:128][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto2
+[2025.11.02-18.39.42:128][840]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/ZDS9FFWRD0F1XPOHD7SZMY_Auto28306BA0A400218887D41879BE567E66F.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto2.uasset'
+[2025.11.02-18.39.42:129][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2025.11.02-18.39.42:129][840]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2025.11.02-18.41.03:078][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1702.772461
+[2025.11.02-18.41.04:078][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.41.04:078][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1703.439087, Update Interval: 338.001038
+[2025.11.02-18.47.15:153][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2074.849854
+[2025.11.02-18.47.16:153][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.47.16:153][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.516602, Update Interval: 346.433289
+[2025.11.02-18.48.44:298][401]Cmd: SELECT NONE
+[2025.11.02-18.48.47:551][560]Cmd: SELECT NONE
+[2025.11.02-18.49.03:242][164]LogSlate: Window 'Escolha a classe pai' being destroyed
+[2025.11.02-18.49.09:226][601]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.11.02-18.49.09:230][601]LogContentBrowser: Creating deferred item: NewInterface
+[2025.11.02-18.49.09:239][602]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.11.02-18.49.14:358][921]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Damage
+[2025.11.02-18.49.14:364][921]LogContentBrowser: End creating deferred item NewInterface
+[2025.11.02-18.49.15:616][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPI_Damage.BPI_Damage
+[2025.11.02-18.49.15:616][  3]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.02-18.49.30:586][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.49.30:613][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Damage] ([2] browsable assets)...
+[2025.11.02-18.49.30:613][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Damage]
+[2025.11.02-18.49.30:613][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPI_Damage" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPI_Damage.uasset" SILENT=true
+[2025.11.02-18.49.30:623][747]LogSavePackage: Moving output files for package: /Game/Blueprints/BPI_Damage
+[2025.11.02-18.49.30:623][747]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPI_Damage52384136433095F579550B8680B098F1.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPI_Damage.uasset'
+[2025.11.02-18.49.30:631][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.529 ms (total: 1.02 sec)
+[2025.11.02-18.49.30:678][747]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.49.30:678][747]LogContentValidation: Enabled validators:
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.49.30:678][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.49.30:678][747]AssetCheck: /Game/Blueprints/BPI_Damage Validando ativo
+[2025.11.02-18.49.30:687][747]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.02-18.49.31:314][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.02-18.49.40:442][933]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.49.40:442][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.49.40:488][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.02-18.51.36:034][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.51.36:070][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Notify_Damage] ([2] browsable assets)...
+[2025.11.02-18.51.36:070][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Notify_Damage]
+[2025.11.02-18.51.36:070][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Notify_Damage" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset" SILENT=true
+[2025.11.02-18.51.36:082][221]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Notify_Damage
+[2025.11.02-18.51.36:083][221]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_Notify_Damage967ECC8A4FCA08FFE9F97B92C35E6C91.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset'
+[2025.11.02-18.51.36:088][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.126 ms (total: 1.08 sec)
+[2025.11.02-18.51.36:119][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.51.36:119][221]LogContentValidation: Enabled validators:
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.51.36:119][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.51.36:119][221]AssetCheck: /Game/Blueprints/BP_Notify_Damage Validando ativo
+[2025.11.02-18.52.10:839][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.52.10:897][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Notify_Damage] ([2] browsable assets)...
+[2025.11.02-18.52.10:897][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Notify_Damage]
+[2025.11.02-18.52.10:898][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Notify_Damage" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset" SILENT=true
+[2025.11.02-18.52.10:909][559]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Notify_Damage
+[2025.11.02-18.52.10:910][559]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_Notify_DamageF24D2557440E53D5C5C033BADF5DC645.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset'
+[2025.11.02-18.52.10:916][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.358 ms (total: 1.15 sec)
+[2025.11.02-18.52.10:947][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.52.10:947][559]LogContentValidation: Enabled validators:
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.52.10:947][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.52.10:947][559]AssetCheck: /Game/Blueprints/BP_Notify_Damage Validando ativo
+[2025.11.02-18.52.11:817][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.11.02-18.53.21:186][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.53.21:221][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Notify_Damage] ([2] browsable assets)...
+[2025.11.02-18.53.21:221][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Notify_Damage]
+[2025.11.02-18.53.21:221][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Notify_Damage" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset" SILENT=true
+[2025.11.02-18.53.21:235][638]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Notify_Damage
+[2025.11.02-18.53.21:236][638]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_Notify_DamageB8953C8841F0FCC97BE1A8947F3AAB17.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset'
+[2025.11.02-18.53.21:242][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.570 ms (total: 1.21 sec)
+[2025.11.02-18.53.21:288][638]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.53.21:288][638]LogContentValidation: Enabled validators:
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.53.21:288][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.53.21:288][638]AssetCheck: /Game/Blueprints/BP_Notify_Damage Validando ativo
+[2025.11.02-18.53.26:357][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.53.26:406][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Notify_Damage] ([2] browsable assets)...
+[2025.11.02-18.53.26:406][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Notify_Damage]
+[2025.11.02-18.53.26:406][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Notify_Damage" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset" SILENT=true
+[2025.11.02-18.53.26:418][696]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Notify_Damage
+[2025.11.02-18.53.26:419][696]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_Notify_Damage11EF3E4F42C3E45275F7E1BC408FA5AC.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BP_Notify_Damage.uasset'
+[2025.11.02-18.53.26:424][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.630 ms (total: 1.28 sec)
+[2025.11.02-18.53.26:457][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.53.26:457][696]LogContentValidation: Enabled validators:
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.53.26:457][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.53.26:457][696]AssetCheck: /Game/Blueprints/BP_Notify_Damage Validando ativo
+[2025.11.02-18.53.26:953][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.02-18.53.59:667][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2479.465332
+[2025.11.02-18.53.59:859][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-18.53.59:859][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2479.649414, Update Interval: 349.700012
+[2025.11.02-18.54.21:971][523]LogEditorTransaction: Undo Adicionar Nódulo
+[2025.11.02-18.54.22:149][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.54.58:356][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.54.58:402][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.54.58:482][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.02-18.54.58:482][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.54.58:504][943]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.54.58:505][943]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacterCA7A328B41C9D33C6A39A4B9B071EFFD.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.54.58:512][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.571 ms (total: 1.43 sec)
+[2025.11.02-18.54.58:568][943]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.54.58:568][943]LogContentValidation: Enabled validators:
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.54.58:568][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.54.58:568][943]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.55.09:624][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.55.09:672][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.02-18.55.09:672][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.02-18.55.09:694][442]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.02-18.55.09:695][442]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BP_ThirdPersonCharacter3351C679414352B19F604EAAE4CA071A.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.02-18.55.09:700][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.220 ms (total: 1.51 sec)
+[2025.11.02-18.55.09:739][442]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.55.09:739][442]LogContentValidation: Enabled validators:
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.55.09:739][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.55.09:739][442]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.11.02-18.55.24:978][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.55.25:028][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-18.55.25:028][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-18.55.25:028][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-18.55.25:061][850]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-18.55.25:062][850]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat35076D484B51420CC993E4B73FBA4E24.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-18.55.25:069][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.633 ms (total: 1.60 sec)
+[2025.11.02-18.55.25:127][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.55.25:127][850]LogContentValidation: Enabled validators:
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.55.25:127][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.55.25:127][850]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-18.55.30:751][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.02-18.55.42:718][132]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Souls/Combat/SwordAttackCombo_Montage.SwordAttackCombo_Montage
+[2025.11.02-18.55.42:719][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.02-18.55.42:730][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.55.43:040][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.02-18.55.43:514][132]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.02-18.56.35:782][970]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.02-18.56.36:771][ 52]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.56.36:771][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.56.36:824][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.02-18.56.37:934][181]Cmd: TRANSACTION UNDO
+[2025.11.02-18.56.37:934][181]LogEditorTransaction: Undo Renomear Faixa De Notificação to 'Traces'
+[2025.11.02-18.56.38:305][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.56.38:309][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.02-18.59.16:795][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.59.16:853][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Souls/Combat/SwordAttackCombo_Montage] ([1] browsable assets)...
+[2025.11.02-18.59.16:864][549]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Souls/Combat/SwordAttackCombo_Montage.SwordAttackCombo_Montage]
+[2025.11.02-18.59.16:864][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Souls/Combat/SwordAttackCombo_Montage]
+[2025.11.02-18.59.16:876][549]LogSavePackage: Moving output files for package: /Game/Characters/Souls/Combat/SwordAttackCombo_Montage
+[2025.11.02-18.59.16:877][549]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SwordAttackCombo_MontageDB19724C4B5F5597ADA1B8B5482B162C.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Characters/Souls/Combat/SwordAttackCombo_Montage.uasset'
+[2025.11.02-18.59.16:887][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.324 ms (total: 1.69 sec)
+[2025.11.02-18.59.16:919][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.59.16:919][549]LogContentValidation: Enabled validators:
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.59.16:919][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.59.16:919][549]AssetCheck: /Game/Characters/Souls/Combat/SwordAttackCombo_Montage Validando ativo
+[2025.11.02-18.59.34:440][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-18.59.34:491][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Souls/Combat/SwordAttackCombo_Montage] ([1] browsable assets)...
+[2025.11.02-18.59.34:491][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Souls/Combat/SwordAttackCombo_Montage]
+[2025.11.02-18.59.34:503][365]LogSavePackage: Moving output files for package: /Game/Characters/Souls/Combat/SwordAttackCombo_Montage
+[2025.11.02-18.59.34:504][365]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/SwordAttackCombo_Montage2DEA8529457B423EFEB950B9525AD9B2.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Characters/Souls/Combat/SwordAttackCombo_Montage.uasset'
+[2025.11.02-18.59.34:509][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.147 ms (total: 1.76 sec)
+[2025.11.02-18.59.34:542][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-18.59.34:542][365]LogContentValidation: Enabled validators:
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-18.59.34:542][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-18.59.34:542][365]AssetCheck: /Game/Characters/Souls/Combat/SwordAttackCombo_Montage Validando ativo
+[2025.11.02-18.59.35:747][466]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-18.59.35:752][466]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-18.59.35:752][466]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-18.59.35:753][466]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.005 ms (total: 3.489 ms)
+[2025.11.02-18.59.35:753][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-18.59.35:782][466]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.59.35:788][466]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-18.59.35:789][466]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.339 ms (total: 5.232 ms)
+[2025.11.02-18.59.35:789][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007624s)
+[2025.11.02-18.59.35:789][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007658s)
+[2025.11.02-18.59.35:815][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.02-18.59.35:822][466]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-18.59.35:823][466]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-18.59.35:823][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-18.59.35:823][466]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-18.59.35:823][466]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-18.59.35:825][466]LogWorldPartition: Display: WorldPartition initialize took 1.550 ms (total: 73.160 ms)
+[2025.11.02-18.59.35:825][466]LogPlayLevel: PIE: World Init took: (0.003088s)
+[2025.11.02-18.59.35:825][466]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.02-18.59.35:825][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-18.59.35:825][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-18.59.35:826][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-18.59.35:826][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-18.59.35:826][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-18.59.35:826][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-18.59.35:826][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-18.59.35:826][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-18.59.35:826][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-18.59.35:826][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-18.59.35:826][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-18.59.35:828][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-18.59.35:843][466]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-18.59.35:844][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-18.59.35:844][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-18.59.35:844][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-18.59.35:845][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.02-18.59.35:845][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.02-18.59.35:847][466]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.02-18.59.35:847][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.02-18.59.35:847][466]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-18.59.35:847][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.02-18.59.35:847][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.02-18.59.35:850][466]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-18.59.35:855][466]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-15.59.35
+[2025.11.02-18.59.35:855][466]LogWorld: Bringing up level for play took: 0.004714
+[2025.11.02-18.59.35:856][466]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.11.02-18.59.35:860][466]PIE: Servidor conectado
+[2025.11.02-18.59.35:862][466]PIE: Tempo inicial total de reprodução no editor: 0,11 s
+[2025.11.02-18.59.35:915][467]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-18.59.49:331][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.59.49:331][585]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-18.59.49:331][585]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-18.59.49:332][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.59.49:332][585]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-18.59.49:333][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-18.59.49:339][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-18.59.49:364][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-18.59.49:364][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.02-18.59.49:364][585]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.11.02-18.59.49:366][585]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.11.02-18.59.49:373][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.02-18.59.49:402][586]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.11.02-19.00.07:964][917]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-19.00.07:968][917]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-19.00.07:968][917]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-19.00.07:969][917]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 861 us (total: 4.350 ms)
+[2025.11.02-19.00.07:969][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-19.00.07:990][917]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.00.07:997][917]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-19.00.07:998][917]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.304 ms (total: 6.537 ms)
+[2025.11.02-19.00.07:998][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007740s)
+[2025.11.02-19.00.07:998][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007770s)
+[2025.11.02-19.00.08:022][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.02-19.00.08:024][917]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-19.00.08:025][917]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-19.00.08:025][917]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-19.00.08:025][917]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-19.00.08:025][917]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-19.00.08:027][917]LogWorldPartition: Display: WorldPartition initialize took 1.562 ms (total: 74.722 ms)
+[2025.11.02-19.00.08:027][917]LogPlayLevel: PIE: World Init took: (0.003006s)
+[2025.11.02-19.00.08:028][917]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-19.00.08:028][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-19.00.08:028][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-19.00.08:028][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-19.00.08:028][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-19.00.08:028][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-19.00.08:030][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-19.00.08:045][917]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-19.00.08:045][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-19.00.08:045][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-19.00.08:045][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-19.00.08:046][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.02-19.00.08:046][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.02-19.00.08:047][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.02-19.00.08:047][917]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.02-19.00.08:047][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.02-19.00.08:047][917]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-19.00.08:047][917]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.02-19.00.08:050][917]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-19.00.08:055][917]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-16.00.08
+[2025.11.02-19.00.08:055][917]LogWorld: Bringing up level for play took: 0.004543
+[2025.11.02-19.00.08:057][917]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.02-19.00.08:061][917]PIE: Servidor conectado
+[2025.11.02-19.00.08:062][917]PIE: Tempo inicial total de reprodução no editor: 0,094 s
+[2025.11.02-19.00.08:115][918]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-19.00.32:861][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.00.32:861][ 34]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.00.32:861][ 34]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-19.00.32:862][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.00.32:862][ 34]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-19.00.32:863][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-19.00.32:868][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.00.32:892][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.00.32:893][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.02-19.00.32:893][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.11.02-19.00.32:895][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.11.02-19.00.32:902][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.02-19.00.32:968][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.02-19.00.38:019][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2877.838379
+[2025.11.02-19.00.39:019][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-19.00.39:019][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2878.505371, Update Interval: 310.779755
+[2025.11.02-19.00.54:178][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-19.00.54:219][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-19.00.54:219][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-19.00.54:219][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-19.00.54:250][759]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-19.00.54:251][759]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat6BA77D98485595B2F793A089D8664331.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-19.00.54:257][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.356 ms (total: 1.84 sec)
+[2025.11.02-19.00.54:302][759]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-19.00.54:302][759]LogContentValidation: Enabled validators:
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-19.00.54:302][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-19.00.54:302][759]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-19.00.56:178][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.02-19.00.58:992][141]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-19.00.58:996][141]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-19.00.58:996][141]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-19.00.58:997][141]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 855 us (total: 5.206 ms)
+[2025.11.02-19.00.58:997][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-19.00.59:021][141]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.00.59:027][141]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-19.00.59:028][141]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.311 ms (total: 7.849 ms)
+[2025.11.02-19.00.59:028][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007773s)
+[2025.11.02-19.00.59:028][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007807s)
+[2025.11.02-19.00.59:054][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.02-19.00.59:060][141]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-19.00.59:062][141]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-19.00.59:062][141]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-19.00.59:062][141]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-19.00.59:062][141]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-19.00.59:063][141]LogWorldPartition: Display: WorldPartition initialize took 1.582 ms (total: 76.304 ms)
+[2025.11.02-19.00.59:063][141]LogPlayLevel: PIE: World Init took: (0.002987s)
+[2025.11.02-19.00.59:064][141]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-19.00.59:064][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-19.00.59:064][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-19.00.59:064][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-19.00.59:064][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-19.00.59:064][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-19.00.59:066][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-19.00.59:081][141]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-19.00.59:081][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-19.00.59:081][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-19.00.59:081][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-19.00.59:082][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.02-19.00.59:082][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.02-19.00.59:084][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.02-19.00.59:084][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.02-19.00.59:084][141]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.02-19.00.59:084][141]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-19.00.59:084][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.02-19.00.59:087][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-19.00.59:091][141]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-16.00.59
+[2025.11.02-19.00.59:092][141]LogWorld: Bringing up level for play took: 0.004482
+[2025.11.02-19.00.59:093][141]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.11.02-19.00.59:097][141]PIE: Servidor conectado
+[2025.11.02-19.00.59:098][141]PIE: Tempo inicial total de reprodução no editor: 0,103 s
+[2025.11.02-19.00.59:151][142]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-19.01.02:331][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.01.02:331][403]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.01.02:332][403]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-19.01.02:332][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.01.02:332][403]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-19.01.02:334][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-19.01.02:339][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.01.02:363][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.02-19.01.02:363][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.02-19.01.02:363][403]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.02-19.01.02:365][403]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.02-19.01.02:369][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.01.02:372][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.02-19.01.02:398][404]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.02-19.01.14:782][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-19.01.14:826][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_Combat] ([2] browsable assets)...
+[2025.11.02-19.01.14:826][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_Combat]
+[2025.11.02-19.01.14:826][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Combat" FILE="../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset" SILENT=true
+[2025.11.02-19.01.14:859][795]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Combat
+[2025.11.02-19.01.14:860][795]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/BPC_Combat93567710437952BC8D401D813471789F.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Content/Blueprints/BPC_Combat.uasset'
+[2025.11.02-19.01.14:866][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.412 ms (total: 1.92 sec)
+[2025.11.02-19.01.14:909][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-19.01.14:909][795]LogContentValidation: Enabled validators:
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-19.01.14:909][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-19.01.14:909][795]AssetCheck: /Game/Blueprints/BPC_Combat Validando ativo
+[2025.11.02-19.01.15:969][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.02-19.01.17:540][ 24]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.02-19.01.17:545][ 24]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.02-19.01.17:545][ 24]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.02-19.01.17:546][ 24]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.109 ms (total: 6.315 ms)
+[2025.11.02-19.01.17:546][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-19.01.17:547][ 24]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.01.17:555][ 24]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.02-19.01.17:558][ 24]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.459 ms (total: 10.309 ms)
+[2025.11.02-19.01.17:558][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011215s)
+[2025.11.02-19.01.17:558][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011272s)
+[2025.11.02-19.01.17:584][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.02-19.01.17:593][ 24]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.02-19.01.17:595][ 24]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.02-19.01.17:595][ 24]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.02-19.01.17:595][ 24]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.02-19.01.17:595][ 24]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.02-19.01.17:598][ 24]LogWorldPartition: Display: WorldPartition initialize took 2.748 ms (total: 79.053 ms)
+[2025.11.02-19.01.17:598][ 24]LogPlayLevel: PIE: World Init took: (0.004963s)
+[2025.11.02-19.01.17:600][ 24]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-19.01.17:600][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-19.01.17:600][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-19.01.17:600][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-19.01.17:600][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-19.01.17:600][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-19.01.17:602][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-19.01.17:620][ 24]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (3- USB Audio Device)
+[2025.11.02-19.01.17:620][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-19.01.17:620][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-19.01.17:620][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-19.01.17:621][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.02-19.01.17:621][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.02-19.01.17:624][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.02-19.01.17:624][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.02-19.01.17:624][ 24]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.02-19.01.17:624][ 24]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2025.11.02-19.01.17:624][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.02-19.01.17:628][ 24]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.02-19.01.17:633][ 24]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.02-16.01.17
+[2025.11.02-19.01.17:634][ 24]LogWorld: Bringing up level for play took: 0.005599
+[2025.11.02-19.01.17:636][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.11.02-19.01.17:641][ 24]PIE: Servidor conectado
+[2025.11.02-19.01.17:643][ 24]PIE: Tempo inicial total de reprodução no editor: 0,098 s
+[2025.11.02-19.01.17:696][ 25]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-19.01.25:621][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.01.25:622][644]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.02-19.01.25:622][644]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-19.01.25:623][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.01.25:623][644]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.02-19.01.25:624][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-19.01.25:630][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-19.01.25:653][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.02-19.01.25:654][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.02-19.01.25:654][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.02-19.01.25:656][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.02-19.01.25:659][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-19.01.25:662][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.02-19.01.25:689][645]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.11.02-19.01.50:212][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.02-19.01.50:225][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto3
+[2025.11.02-19.01.50:225][917]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/ZDS9FFWRD0F1XPOHD7SZMY_Auto38BDD5E514237C1CF2ABF289BB7A93395.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/F6/ZDS9FFWRD0F1XPOHD7SZMY_Auto3.uasset'
+[2025.11.02-19.01.50:226][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.038
+[2025.11.02-19.01.50:226][917]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.11.02-19.01.50:227][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_0] ([1] browsable assets)...
+[2025.11.02-19.01.50:227][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_0]
+[2025.11.02-19.01.50:304][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_0_Auto3
+[2025.11.02-19.01.50:304][917]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_0_Auto3FA91C6AB400CDD41743545A282A00248.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_0_Auto3.uasset'
+[2025.11.02-19.01.50:305][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_1] ([1] browsable assets)...
+[2025.11.02-19.01.50:305][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_1]
+[2025.11.02-19.01.50:387][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_1_Auto3
+[2025.11.02-19.01.50:387][917]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_1_Auto37FA2D7B040BC7948459D98A96465F72E.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_1_Auto3.uasset'
+[2025.11.02-19.01.50:389][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sword/sword/Textures/sword_texture_2] ([1] browsable assets)...
+[2025.11.02-19.01.50:389][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Textures/sword_texture_2]
+[2025.11.02-19.01.50:466][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_2_Auto3
+[2025.11.02-19.01.50:466][917]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/sword_texture_2_Auto3D51FDC764432CDF4BE130CB476B8F7AA.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Textures/sword_texture_2_Auto3.uasset'
+[2025.11.02-19.01.50:467][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sword/sword/Materials/Material] ([1] browsable assets)...
+[2025.11.02-19.01.50:467][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sword/sword/Materials/Material]
+[2025.11.02-19.01.50:474][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sword/sword/Materials/Material_Auto3
+[2025.11.02-19.01.50:474][917]LogSavePackage: Moving '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Material_Auto38DF851BD490741116582B69F6D9877DD.tmp' to '../../../../../../Users/ericm/OneDrive/Documents/Unreal Projects/LethusWalk/Saved/Autosaves/Game/Fab/Sword/sword/Materials/Material_Auto3.uasset'
+[2025.11.02-19.01.50:475][917]LogFileHelpers: Auto-saving content packages took 0.249
