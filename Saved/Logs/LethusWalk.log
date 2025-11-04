@@ -5196,3 +5196,481 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.04-02.08.46:027][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8524.250977
 [2025.11.04-02.08.47:026][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.04-02.08.47:026][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8524.916992, Update Interval: 349.773254
+[2025.11.04-02.09.05:305][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.04-02.09.05:310][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-02.09.05:348][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/59/FNL0TGR6I4H9AL2H2NAU7U
+[2025.11.04-02.09.05:348][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/FNL0TGR6I4H9AL2H2NAU7U8AFECC7C417EFF44E4D9A0B16500DA37.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/59/FNL0TGR6I4H9AL2H2NAU7U.uasset'
+[2025.11.04-02.09.05:351][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/9B/M6DLCJUMTSXH47IH828V3Z
+[2025.11.04-02.09.05:351][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/M6DLCJUMTSXH47IH828V3ZB4B1CCCE4B929FF0EE6F34A863D24830.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/9B/M6DLCJUMTSXH47IH828V3Z.uasset'
+[2025.11.04-02.09.05:354][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Damage] ([2] browsable assets)...
+[2025.11.04-02.09.05:354][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Damage]
+[2025.11.04-02.09.05:354][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPI_Damage" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/Blueprints/BPI_Damage.uasset" SILENT=true
+[2025.11.04-02.09.05:356][751]LogSavePackage: Moving output files for package: /Game/Blueprints/BPI_Damage
+[2025.11.04-02.09.05:356][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BPI_Damage35662D6748239B8BECCAD3B00FC1C2FF.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/Blueprints/BPI_Damage.uasset'
+[2025.11.04-02.09.05:357][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Enemy] ([2] browsable assets)...
+[2025.11.04-02.09.05:411][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Enemy.BP_Enemy]
+[2025.11.04-02.09.05:411][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Enemy]
+[2025.11.04-02.09.05:411][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy.uasset" SILENT=true
+[2025.11.04-02.09.05:426][751]LogSavePackage: Moving output files for package: /Game/AI/BP_Enemy
+[2025.11.04-02.09.05:427][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_Enemy202451DD4102510AC9E3D0AA00BE101A.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy.uasset'
+[2025.11.04-02.09.05:428][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.11.04-02.09.05:428][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_Enemy]
+[2025.11.04-02.09.05:428][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.11.04-02.09.05:432][751]LogSavePackage: Moving output files for package: /Game/AI/BP_AI_Enemy
+[2025.11.04-02.09.05:432][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_AI_EnemyA8D73D9C404924BD580DC0845AEFF274.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_AI_Enemy.uasset'
+[2025.11.04-02.09.05:433][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BPI_Enemy] ([2] browsable assets)...
+[2025.11.04-02.09.05:433][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BPI_Enemy]
+[2025.11.04-02.09.05:433][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BPI_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BPI_Enemy.uasset" SILENT=true
+[2025.11.04-02.09.05:434][751]LogSavePackage: Moving output files for package: /Game/AI/BPI_Enemy
+[2025.11.04-02.09.05:435][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BPI_Enemy124CC15D45196F46071330A641F6408E.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BPI_Enemy.uasset'
+[2025.11.04-02.09.05:435][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WB_EnemyHealth] ([2] browsable assets)...
+[2025.11.04-02.09.05:435][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_EnemyHealth]
+[2025.11.04-02.09.05:435][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_EnemyHealth" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/UI/WB_EnemyHealth.uasset" SILENT=true
+[2025.11.04-02.09.05:437][751]LogSavePackage: Moving output files for package: /Game/UI/WB_EnemyHealth
+[2025.11.04-02.09.05:439][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/WB_EnemyHealthBDFBE211459C21BF367E599F57079463.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/UI/WB_EnemyHealth.uasset'
+[2025.11.04-02.09.05:439][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_Enemy] ([1] browsable assets)...
+[2025.11.04-02.09.05:439][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_Enemy]
+[2025.11.04-02.09.05:439][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BT_Enemy.uasset" SILENT=true
+[2025.11.04-02.09.05:441][751]LogSavePackage: Moving output files for package: /Game/AI/BT_Enemy
+[2025.11.04-02.09.05:442][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BT_EnemyAFDA78784D81BE7715AA158D48D946A0.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BT_Enemy.uasset'
+[2025.11.04-02.09.05:442][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/Task_ChaseTarget] ([2] browsable assets)...
+[2025.11.04-02.09.05:442][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/Task_ChaseTarget]
+[2025.11.04-02.09.05:442][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/Task_ChaseTarget" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_ChaseTarget.uasset" SILENT=true
+[2025.11.04-02.09.05:446][751]LogSavePackage: Moving output files for package: /Game/AI/Tasks/Task_ChaseTarget
+[2025.11.04-02.09.05:446][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/Task_ChaseTarget366420464EB01C616D32A2A99464920B.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_ChaseTarget.uasset'
+[2025.11.04-02.09.05:447][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/Task_SwordAttack] ([2] browsable assets)...
+[2025.11.04-02.09.05:447][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/Task_SwordAttack]
+[2025.11.04-02.09.05:447][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/Task_SwordAttack" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_SwordAttack.uasset" SILENT=true
+[2025.11.04-02.09.05:449][751]LogSavePackage: Moving output files for package: /Game/AI/Tasks/Task_SwordAttack
+[2025.11.04-02.09.05:449][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/Task_SwordAttackCE0B05FF42B1337E46356F93BF84E286.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_SwordAttack.uasset'
+[2025.11.04-02.09.05:450][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/Task_BigAttack] ([2] browsable assets)...
+[2025.11.04-02.09.05:450][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/Task_BigAttack]
+[2025.11.04-02.09.05:450][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/Task_BigAttack" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_BigAttack.uasset" SILENT=true
+[2025.11.04-02.09.05:453][751]LogSavePackage: Moving output files for package: /Game/AI/Tasks/Task_BigAttack
+[2025.11.04-02.09.05:453][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/Task_BigAttack98ED7980493B140550C702ACA80F3D62.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/Tasks/Task_BigAttack.uasset'
+[2025.11.04-02.09.05:455][751]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Tasks/Task_BigAttack.
+[2025.11.04-02.09.05:456][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Souls/Combat/BigAttack] ([1] browsable assets)...
+[2025.11.04-02.09.05:456][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Souls/Combat/BigAttack]
+[2025.11.04-02.09.05:466][751]LogSavePackage: Moving output files for package: /Game/Characters/Souls/Combat/BigAttack
+[2025.11.04-02.09.05:466][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BigAttack50D87FB5406D0D2FFF4D96944823A99F.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/Characters/Souls/Combat/BigAttack.uasset'
+[2025.11.04-02.09.05:467][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_Enemy_Boss] ([2] browsable assets)...
+[2025.11.04-02.09.05:467][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Enemy_Boss]
+[2025.11.04-02.09.05:467][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy_Boss" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy_Boss.uasset" SILENT=true
+[2025.11.04-02.09.05:470][751]LogSavePackage: Moving output files for package: /Game/AI/BP_Enemy_Boss
+[2025.11.04-02.09.05:471][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_Enemy_BossC73890B24371838D0875A1AB1ECA0761.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy_Boss.uasset'
+[2025.11.04-02.09.05:471][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI_Enemy_Boss] ([2] browsable assets)...
+[2025.11.04-02.09.05:471][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_Enemy_Boss]
+[2025.11.04-02.09.05:471][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_Enemy_Boss" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_AI_Enemy_Boss.uasset" SILENT=true
+[2025.11.04-02.09.05:474][751]LogSavePackage: Moving output files for package: /Game/AI/BP_AI_Enemy_Boss
+[2025.11.04-02.09.05:474][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_AI_Enemy_Boss9137BE644DD4FB432629D39199A30229.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_AI_Enemy_Boss.uasset'
+[2025.11.04-02.09.05:476][751]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_AI_Enemy_Boss.
+[2025.11.04-02.09.05:477][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Notify_PointDamage] ([2] browsable assets)...
+[2025.11.04-02.09.05:477][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Notify_PointDamage]
+[2025.11.04-02.09.05:479][751]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Notify_PointDamage
+[2025.11.04-02.09.05:479][751]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_Notify_PointDamage5BB154634C48D5CC0FBEF7A3150523A6.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/Blueprints/BP_Notify_PointDamage.uasset'
+[2025.11.04-02.09.05:481][751]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/BP_Notify_PointDamage.
+[2025.11.04-02.09.05:496][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.943 ms (total: 917.965 ms)
+[2025.11.04-02.09.05:535][751]LogContentValidation: Display: Starting to validate 16 assets
+[2025.11.04-02.09.05:535][751]LogContentValidation: Enabled validators:
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-02.09.05:535][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-02.09.05:535][751]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2025.11.04-02.09.05:535][751]AssetCheck: /Game/Blueprints/BPI_Damage Validando ativo
+[2025.11.04-02.09.05:535][751]AssetCheck: /Game/AI/BP_Enemy Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/BP_AI_Enemy Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/BPI_Enemy Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/UI/WB_EnemyHealth Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/BT_Enemy Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/Tasks/Task_ChaseTarget Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/Tasks/Task_SwordAttack Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/Tasks/Task_BigAttack Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/Characters/Souls/Combat/BigAttack Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/BP_Enemy_Boss Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/AI/BP_AI_Enemy_Boss Validando ativo
+[2025.11.04-02.09.05:536][751]AssetCheck: /Game/Blueprints/BP_Notify_PointDamage Validando ativo
+[2025.11.04-02.09.05:569][751]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.04-02.09.08:007][ 13]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.04-02.09.08:012][ 13]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.04-02.09.08:013][ 13]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.04-02.09.08:013][ 13]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 499 us (total: 15.726 ms)
+[2025.11.04-02.09.08:017][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-02.09.08:049][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.09.08:055][ 13]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.04-02.09.08:056][ 13]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 967 us (total: 20.429 ms)
+[2025.11.04-02.09.08:056][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006539s)
+[2025.11.04-02.09.08:056][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006578s)
+[2025.11.04-02.09.08:082][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.04-02.09.08:085][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.04-02.09.08:086][ 13]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.04-02.09.08:086][ 13]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.04-02.09.08:086][ 13]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.04-02.09.08:086][ 13]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.04-02.09.08:087][ 13]LogWorldPartition: Display: WorldPartition initialize took 1.344 ms (total: 253.970 ms)
+[2025.11.04-02.09.08:087][ 13]LogPlayLevel: PIE: World Init took: (0.002917s)
+[2025.11.04-02.09.08:088][ 13]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-02.09.08:088][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-02.09.08:088][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-02.09.08:088][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-02.09.08:088][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-02.09.08:088][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-02.09.08:090][ 13]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-02.09.08:106][ 13]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (HyperX Cloud III)
+[2025.11.04-02.09.08:106][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-02.09.08:106][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-02.09.08:106][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-02.09.08:107][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.04-02.09.08:107][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.11.04-02.09.08:108][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.04-02.09.08:108][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.04-02.09.08:108][ 13]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.04-02.09.08:108][ 13]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lvl_ThirdPerson'.
+[2025.11.04-02.09.08:108][ 13]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.04-02.09.08:112][ 13]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.04-02.09.08:117][ 13]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.03-23.09.08
+[2025.11.04-02.09.08:119][ 13]LogWorld: Bringing up level for play took: 0.005345
+[2025.11.04-02.09.08:121][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.11.04-02.09.08:126][ 13]PIE: Servidor conectado
+[2025.11.04-02.09.08:128][ 13]PIE: Tempo inicial total de reprodução no editor: 0,116 s
+[2025.11.04-02.09.08:191][ 14]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.04-02.09.42:474][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.09.42:474][983]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.09.42:474][983]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.04-02.09.42:474][983]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.09.42:475][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.09.42:475][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.04-02.09.42:479][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-02.09.42:484][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.09.42:508][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.09.42:509][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.04-02.09.42:509][983]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.11.04-02.09.42:511][983]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.11.04-02.09.42:517][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.04-02.09.42:583][984]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.11.04-02.11.54:183][673]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_199
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.11.54:183][673]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_199
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.11.54:183][673]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_199
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.12.39:929][696]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_200
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.12.39:929][696]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_200
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.12.39:929][696]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_200
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.12.43:449][  6]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-02.12.43:450][  6]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.12.43:450][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.12.43:541][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.04-02.12.43:957][ 55]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.12.43:957][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.12.44:009][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.04-02.12.44:931][164]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.12.44:931][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.12.44:975][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.04-02.12.48:139][476]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Enemy.BT_Enemy
+[2025.11.04-02.13.04:077][679]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/AI/BD_AI.BD_AI
+[2025.11.04-02.13.06:613][936]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Enemy.BT_Enemy
+[2025.11.04-02.13.31:182][840]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_201
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.13.31:182][840]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_201
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.13.31:182][840]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_201
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.13.31:229][841]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_202
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.13.31:229][841]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_202
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.13.31:229][841]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_202
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.13.31:549][868]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_203
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.13.31:549][868]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_203
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.13.31:549][868]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_203
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.13.31:604][869]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_204
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.13.31:604][869]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_204
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.13.31:604][869]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_204
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.13.32:966][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI_Enemy.BP_AI_Enemy
+[2025.11.04-02.13.32:967][967]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.11.04-02.14.23:141][618]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Enemy.BP_Enemy
+[2025.11.04-02.14.23:142][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.11.04-02.14.43:077][768]LogSlateStyle: Warning: Falta recurso em “CoreStyle” Estilo: “Não foi possível encontrar a cor 'DefaultForeground'.”
+[2025.11.04-02.15.10:463][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8908.787109
+[2025.11.04-02.15.11:462][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.04-02.15.11:462][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8909.451172, Update Interval: 352.327637
+[2025.11.04-02.15.50:204][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.04-02.16.02:821][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.04-02.18.42:705][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.11.04-02.18.42:714][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2025.11.04-02.18.42:715][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_Enemy] ([2] browsable assets)...
+[2025.11.04-02.18.42:786][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Enemy.BP_Enemy]
+[2025.11.04-02.18.42:786][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Enemy]
+[2025.11.04-02.18.42:786][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/Autosaves/Game/AI/BP_Enemy_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.11.04-02.18.42:804][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_Enemy_Auto7
+[2025.11.04-02.18.42:804][994]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_Enemy_Auto78F5DB11E4E540022B38B88B73404E8A5.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/Autosaves/Game/AI/BP_Enemy_Auto7.uasset'
+[2025.11.04-02.18.42:804][994]LogFileHelpers: Auto-saving content packages took 0.090
+[2025.11.04-02.18.58:340][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_205
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.18.58:340][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_205
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.18.58:340][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_205
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.19.01:393][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Tasks/Task_ChaseTarget.Task_ChaseTarget
+[2025.11.04-02.19.01:393][454]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.11.04-02.20.33:946][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.11.04-02.20.43:924][291]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.04-02.20.43:930][291]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.04-02.20.43:931][291]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.04-02.20.43:931][291]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 562 us (total: 16.289 ms)
+[2025.11.04-02.20.43:936][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-02.20.43:970][291]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.20.43:976][291]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.04-02.20.43:977][291]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 928 us (total: 21.357 ms)
+[2025.11.04-02.20.43:977][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007834s)
+[2025.11.04-02.20.43:977][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007888s)
+[2025.11.04-02.20.44:000][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.04-02.20.44:003][291]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.04-02.20.44:005][291]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.04-02.20.44:005][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.04-02.20.44:005][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.04-02.20.44:005][291]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.04-02.20.44:006][291]LogWorldPartition: Display: WorldPartition initialize took 1.438 ms (total: 255.409 ms)
+[2025.11.04-02.20.44:006][291]LogPlayLevel: PIE: World Init took: (0.002980s)
+[2025.11.04-02.20.44:007][291]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-02.20.44:007][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-02.20.44:007][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-02.20.44:007][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-02.20.44:007][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-02.20.44:007][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-02.20.44:009][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-02.20.44:026][291]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (HyperX Cloud III)
+[2025.11.04-02.20.44:026][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-02.20.44:026][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-02.20.44:026][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-02.20.44:027][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.04-02.20.44:027][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.11.04-02.20.44:029][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.04-02.20.44:029][291]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.04-02.20.44:029][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.11.04-02.20.44:029][291]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_ThirdPerson'.
+[2025.11.04-02.20.44:029][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.04-02.20.44:033][291]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.04-02.20.44:039][291]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.03-23.20.44
+[2025.11.04-02.20.44:040][291]LogWorld: Bringing up level for play took: 0.005684
+[2025.11.04-02.20.44:042][291]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.11.04-02.20.44:047][291]PIE: Servidor conectado
+[2025.11.04-02.20.44:049][291]PIE: Tempo inicial total de reprodução no editor: 0,118 s
+[2025.11.04-02.20.44:108][292]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.04-02.20.59:004][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.20.59:004][ 47]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.20.59:004][ 47]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.04-02.20.59:004][ 47]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.20.59:005][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.20.59:005][ 47]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.04-02.20.59:009][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-02.20.59:012][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.20.59:034][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.20.59:035][ 47]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.04-02.20.59:035][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.11.04-02.20.59:037][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.11.04-02.20.59:042][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.04-02.20.59:105][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.11.04-02.21.05:132][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Tasks/Task_BigAttack.Task_BigAttack
+[2025.11.04-02.21.05:133][751]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.11.04-02.21.16:735][ 75]LogSlate: Window 'Task_BigAttack' being destroyed
+[2025.11.04-02.21.18:379][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Tasks/Task_SwordAttack.Task_SwordAttack
+[2025.11.04-02.21.18:379][258]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.11.04-02.21.43:651][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9302.145508
+[2025.11.04-02.21.43:847][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.04-02.21.43:847][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9302.330078, Update Interval: 325.108185
+[2025.11.04-02.21.50:431][ 96]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_206
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:431][ 96]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_206
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:431][ 96]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_206
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:691][121]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_207
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:691][121]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_207
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:691][121]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_207
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:741][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_208
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:741][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_208
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:741][122]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_208
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:755][123]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_209
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:755][123]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_209
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:755][123]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_209
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:768][124]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_210
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:768][124]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_210
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:768][124]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_210
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:782][125]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_211
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:782][125]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_211
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:782][125]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_211
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.21.50:794][126]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_212
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:0040
+[2025.11.04-02.21.50:794][126]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_212
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:00ED
+[2025.11.04-02.21.50:794][126]LogScript: Warning: Acessado "None" (Nenhum) ao tentar ler a propriedade (real) CallFunc_TryGetPawnOwner_ReturnValue fora de uma UClass
+	ABP_Enemy_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Enemy_C_212
+	Function /Game/AI/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy:011F
+[2025.11.04-02.23.11:089][489]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.11.04-02.23.11:094][489]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.04-02.23.11:094][489]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.04-02.23.11:094][489]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 551 us (total: 16.841 ms)
+[2025.11.04-02.23.11:099][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-02.23.11:099][489]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.23.11:105][489]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.04-02.23.11:106][489]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.051 ms (total: 22.409 ms)
+[2025.11.04-02.23.11:106][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006785s)
+[2025.11.04-02.23.11:106][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006813s)
+[2025.11.04-02.23.11:158][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.04-02.23.11:165][489]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.04-02.23.11:167][489]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.04-02.23.11:167][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.04-02.23.11:167][489]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.04-02.23.11:167][489]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.04-02.23.11:169][489]LogWorldPartition: Display: WorldPartition initialize took 1.514 ms (total: 256.924 ms)
+[2025.11.04-02.23.11:169][489]LogPlayLevel: PIE: World Init took: (0.003275s)
+[2025.11.04-02.23.11:170][489]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-02.23.11:170][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-02.23.11:170][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-02.23.11:170][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-02.23.11:170][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-02.23.11:170][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-02.23.11:172][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-02.23.11:188][489]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (HyperX Cloud III)
+[2025.11.04-02.23.11:189][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-02.23.11:189][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-02.23.11:189][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-02.23.11:189][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.04-02.23.11:189][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.11.04-02.23.11:191][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.04-02.23.11:191][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.11.04-02.23.11:191][489]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.04-02.23.11:191][489]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lvl_ThirdPerson'.
+[2025.11.04-02.23.11:191][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.04-02.23.11:195][489]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.04-02.23.11:201][489]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.03-23.23.11
+[2025.11.04-02.23.11:202][489]LogWorld: Bringing up level for play took: 0.005275
+[2025.11.04-02.23.11:204][489]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.11.04-02.23.11:209][489]PIE: Servidor conectado
+[2025.11.04-02.23.11:211][489]PIE: Tempo inicial total de reprodução no editor: 0,117 s
+[2025.11.04-02.23.11:270][490]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.04-02.23.52:604][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.23.52:604][394]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.04-02.23.52:604][394]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.04-02.23.52:604][394]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-02.23.52:605][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.23.52:605][394]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.04-02.23.52:615][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-02.23.52:620][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-02.23.52:643][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-02.23.52:643][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.04-02.23.52:644][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.04-02.23.52:645][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.04-02.23.52:649][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-02.23.52:652][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.04-02.23.52:714][395]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.11.04-02.27.15:348][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-02.27.15:369][378]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_Enemy] ([2] browsable assets)...
+[2025.11.04-02.27.15:369][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Enemy]
+[2025.11.04-02.27.15:369][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Enemy" FILE="../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy.uasset" SILENT=true
+[2025.11.04-02.27.15:384][378]LogSavePackage: Moving output files for package: /Game/AI/BP_Enemy
+[2025.11.04-02.27.15:384][378]LogSavePackage: Moving '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Saved/BP_Enemy5DDEA072410CEC778F59748E2F326A81.tmp' to '../../../../../../Users/Johan/Documents/Unreal Projects/jogo1/LethusWalk/Content/AI/BP_Enemy.uasset'
+[2025.11.04-02.27.15:390][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.581 ms (total: 961.547 ms)
+[2025.11.04-02.27.15:421][378]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-02.27.15:421][378]LogContentValidation: Enabled validators:
+[2025.11.04-02.27.15:421][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-02.27.15:421][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-02.27.15:422][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-02.27.15:422][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-02.27.15:422][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-02.27.15:422][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-02.27.15:422][378]AssetCheck: /Game/AI/BP_Enemy Validando ativo
